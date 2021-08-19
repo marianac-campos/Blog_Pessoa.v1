@@ -17,7 +17,7 @@ Tabela de conteúdos
 
 ## Demonstração 🎬 
 Para realizar o deploy do backend, utilizamos o serviço em nuvem da Heroku, e como banco de dados, o Postgres.
-Como desenvolvemos o back primeiro, não tinhamos a parte da estilização, para contornar essa situação, usamos o Swagger para termos uma interface para descrever nossa API RESTful.
+Como desenvolvemos o back primeiro, não tinhamos a parte da estilização, para contornar essa situação, foi utilizado o Swagger para exibir a interface descrevendo nossa API RESTful.
 
 ----
 

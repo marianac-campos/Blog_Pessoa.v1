@@ -6,15 +6,6 @@
 
 ----
 
-Tabela de conteúdos 
-================= 
-<!--ts--> 
-* [Sobre](#Sobre) 
-* [Demonstração](#instalacao) 
-* [Pre Requisitos](#pre-requisitos)
-* [Tecnologias](#tecnologias) 
-<!--te-->
-
 ## Demonstração 🎬 
 Para realizar o deploy do backend, utilizamos o serviço em nuvem da Heroku, e como banco de dados, o Postgres.
 Como desenvolvemos o back primeiro, não tinhamos a parte da estilização, para contornar essa situação, foi utilizado o Swagger para exibir a interface descrevendo nossa API RESTful.
@@ -32,10 +23,9 @@ Senha: root
 ```
 Super seguro não é mesmo? 😎
 
----
+<a href="https://blogcplus.herokuapp.com/swagger-ui/"><img src="https://img.shields.io/static/v1?label=&message=Site&color=85ea2d&style=flat&logo=Swagger"><a>
 
-## Pré-requisitos e como rodar a aplicação/testes
-(opcional)
+---
 
 ## Tecnologias Utilizadas
 

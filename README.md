@@ -23,7 +23,7 @@ Senha: root
 ```
 Super seguro não é mesmo? 😎
 
-<a href="https://blogcplus.herokuapp.com/swagger-ui/"><img src="https://img.shields.io/static/v1?label=&message=Site&color=85ea2d&style=flat&logo=Swagger"><a>
+<a href="https://blogcplus.herokuapp.com/swagger-ui/"><img src="https://img.shields.io/static/v1?label=&message=Site&color=85ea2d&style=flat&logo=Swagger&logoColor=black"><a>
 
 ---
 

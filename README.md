@@ -18,7 +18,7 @@ Tabela de conteúdos
 ## Demonstração 🎬 
 Ao acessar o link do Swagger, você já irá se deparar com os CRUDs realizados na aplicação e a model da API.
 
-![imgInicial]("./assets/telaInicial.jpg")
+![imgInicial]("/assets/telaInicial.jpg")
 
 
 ## Pré-requisitos e como rodar a aplicação/testes

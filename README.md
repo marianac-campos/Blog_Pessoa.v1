@@ -16,10 +16,23 @@ Tabela de conteúdos
 <!--te-->
 
 ## Demonstração 🎬 
-Ao acessar o link do Swagger, você já irá se deparar com os CRUDs realizados na aplicação e a model da API.
+Para realizar o deploy do backend, utilizamos o serviço em nuvem da Heroku, e como banco de dados, o Postgres.
+Como desenvolvemos o back primeiro, não tinhamos a parte da estilização, para contornar essa situação, usamos o Swagger para termos uma interface para descrever nossa API RESTful.
+
+----
+
+Ao acessar o link do Swagger (disponibilizado no final desse tópico e na descrição do repositório), você irá se deparar com os CRUDs realizados na aplicação e a model da API.
 
 ![imgInicial](assets/telaInicial.JPG)
 
+Caso seja solicitado um usuário e senha, utilize:
+```
+Usuário: root
+Senha: root
+```
+Super seguro não é mesmo? 😎
+
+---
 
 ## Pré-requisitos e como rodar a aplicação/testes
 (opcional)

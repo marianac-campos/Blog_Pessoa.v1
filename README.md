@@ -20,6 +20,8 @@ Ao acessar o link do Swagger (disponibilizado no final desse tópico e na descri
 <p>Caso seja solicitado um usuário e senha, utilize:</p>
 <code>
 Usuário: root
+</code>
+<code>
 Senha: root
 </code>
 <p>Super seguro não é mesmo? 😎</p>

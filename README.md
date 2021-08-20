@@ -18,10 +18,10 @@ Ao acessar o link do Swagger (disponibilizado no final desse tópico e na descri
 
 <div align="center">
 <p>Caso seja solicitado um usuário e senha, utilize:</p>
-```
+<code>
 Usuário: root
 Senha: root
-```
+<code>
 <p>Super seguro não é mesmo? 😎</p>
 <a href="https://blogcplus.herokuapp.com/swagger-ui/"><img src="https://img.shields.io/static/v1?label=Site&message=Blog Pessoal&color=85ea2d&style=for-the-badge&logo=Swagger"><a>
 

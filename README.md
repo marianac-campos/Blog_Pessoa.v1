@@ -21,13 +21,20 @@ Ao acessar o link do Swagger (disponibilizado no final desse tópico e na descri
 <code>Usuário: root | Senha: root</code>
 <br>
 <p>Super seguro não é mesmo? 😎</p>
+<p>✋ ATENÇÃO! DICA IMPORTANTE ✋</p>
 <p>Para abrir o site, recomendo que clique com o botão direito e escolha a opção 'abrir o link em uma nova página'</p>
 <a href="https://blogcplus.herokuapp.com/swagger-ui/"><img src="https://img.shields.io/static/v1?label=Site&message=Blog Pessoal&color=85ea2d&style=for-the-badge&logo=Swagger"><a>
 
 ---
 
-## Tecnologias Utilizadas
-
+## Tecnologias Utilizadas 💻
+- [Java](https://www.java.com/pt-BR/)
+- [Spring Boot](https://spring.io/projects/spring-boot)
+  - Spring Data JPA
+  - Spring Web/MVC
+  - Spring Security
+- [Heroku](https://pt-br.reactjs.org/)
+- [Swagger](https://reactnative.dev/)
 
 <div align="center">
 <h2>Autora</h2>
